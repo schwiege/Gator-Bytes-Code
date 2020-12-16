@@ -1,5 +1,5 @@
-# Gator-Bytes-Code
-Team Gator Bytes code for the BME3053C Final Project
+# Team Gator Bytes
+This code is created by team Gator Bytes for the BME3053C Final Project
 The purpose of this code is to determine which parts of a bone Xray are affected by osteoporosis. The code utilizes image analysis techniques to isolate the affected sections
 of bone and to display these sections as an overlay on top of the original image. This code is more of a proof of concept. Using Xrays for diagnosing osteoporosis is a new field
 and has not yet been properly done before. We attempt to change that. 
