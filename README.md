@@ -6,7 +6,7 @@ and has not yet been properly done before. We attempt to change that.
 
 
 # Using our Code
-To use our code, take one of the included image files and paste the file name into the variable I. 
+To use our code, download the final_project_live_v3.mlx and open in MATLAB. Take one of the included image files and paste the file name into the variable I. 
 An example would be I = imread('filename.jpg');
 The image files must be Xray images of the upper part of the femur (preferred) for the code to work. 
 I would recommend only using the included images. Using other images you find off of the internet would cause
